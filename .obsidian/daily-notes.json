@@ -1,0 +1,6 @@
+{
+  "format": "",
+  "folder": "docs/blog",
+  "autorun": true,
+  "template": "sample/AAAA-MM-DD_HH-MM"
+}
