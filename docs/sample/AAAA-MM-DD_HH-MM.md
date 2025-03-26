@@ -9,18 +9,13 @@ categories:
 tags:
   - karned
   - gateway
-  - nginx
-  - jenkins
   - argocd
   - karned-rekipe_gateway
-  - karned-rekipe_gateway.cicd
 publish: true
-slug: gateway
+slug: devlog-gateway
 ---
 
-- Mise en place d'un gateway pour les services karned.  
-- Ajout d'un fichier Jenkinsfile pour le CI du gateway.  
-- Ajout d'un chart Helm pour le déploiement du gateway en utilisant ArgoCD.
+- item1
+- item2
 
 [https://github.com/karned-rekipe/gateway](https://github.com/karned-rekipe/gateway)
-[https://github.com/karned-rekipe/gateway.cicd](https://github.com/karned-rekipe/gateway.cicd)
