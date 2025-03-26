@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "antidote-grammar-checker-integration",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-emoji-toolbar",
+  "emoji-shortcodes"
 ]

@@ -10,15 +10,15 @@ publish: true
 slug: devlog-gateway
 ---
 # Work Subject
-#### Todo
+#### 📓Todo
 - [ ] item 1
 
-#### WIP
+#### 💻WIP
 - RAS
 
-#### Done
+#### ✅Done
 - item 1
 
-#### Refs
+#### 📚Refs
 
 ## Information 1

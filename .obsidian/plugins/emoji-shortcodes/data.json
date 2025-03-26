@@ -1,0 +1,17 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":information_source:",
+    ":computer:",
+    ":books:",
+    ":bookmark:",
+    ":ballot_box_with_check:",
+    ":spider_web:",
+    ":white_check_mark:",
+    ":man_office_worker:",
+    ":notebook:"
+  ]
+}
