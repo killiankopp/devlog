@@ -9,7 +9,7 @@ categories:
   - karned
 tags:
   - karned
-  - karned-rekipe_api-recipe
+  - karned-rekipe-api-recipe
 publish: true
 slug: api-recipe
 ---

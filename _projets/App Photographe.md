@@ -9,7 +9,7 @@ categories:
   - koden
 tags:
   - koden
-  - koden-process_app-photographe
+  - koden-process-app-photographe
 publish: true
 slug: app-photographe
 ---
