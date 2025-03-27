@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/blog/2025-03-27.md",
+                "file": "_projets/API Credential.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-27"
+              "title": "API Credential"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/blog/2025-03-27.md",
+                "file": "_projets/API Credential.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-03-27"
+              "title": "Outline of API Credential"
             }
           },
           {
@@ -195,13 +195,15 @@
   },
   "active": "e775454cc9520d72",
   "lastOpenFiles": [
+    "_projets/API Gateway.md",
+    "_projets/API Recipe.md",
+    "_projets/APP Photographe.md",
+    "_projets/API Credential.md",
+    "_sample/AAAA-MM-DD.md",
+    "_sample/projet.md",
+    "docs/blog/2025-03-27.md",
     "docs/blog/2025-03-26.md",
     "docs/blog/2025-03-25.md",
-    "docs/blog/2025-03-27.md",
-    "_projets/App Photographe.md",
-    "_projets/Api Recipe.md",
-    "_projets/Api Gateway.md",
-    "_sample/AAAA-MM-DD.md",
     "README.md",
     "_projets",
     "docs/img/favicon.png",
