@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/blog/2025-05-05.md",
+                "file": "docs/blog/2025-05-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-05"
+              "title": "2025-05-07"
             }
           }
         ]
@@ -176,12 +176,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +195,9 @@
   },
   "active": "09bf9d19125558ce",
   "lastOpenFiles": [
+    "docs/blog/2025-05-06.md",
+    "docs/blog/2025-05-07.md",
     "_sample/AAAA-MM-DD.md",
-    "docs/blog/2025-05-05.md",
     "docs/blog/2025-05-04.md",
     "docs/blog/2025-05-02.md",
     "docs/blog/2025-04-22.md",
@@ -233,7 +233,6 @@
     "_sample/projet.md",
     "README.md",
     "docs/img/favicon.png",
-    "docs/blog/2025-03-26_12-03.md",
-    "docs/blog/53o533nt().for53pmt(\"2025-03-26_12-03\");.md"
+    "docs/blog/2025-03-26_12-03.md"
   ]
 }
