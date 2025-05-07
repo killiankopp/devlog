@@ -40,7 +40,7 @@ copyright: Copyright &copy; 2000 - 2025 Killian KOPP
 
 plugins:
   - search
-  - pub-meta
+  - meta
 
 markdown_extensions:
   - tables
