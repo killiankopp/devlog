@@ -40,8 +40,6 @@ copyright: Copyright &copy; 2000 - 2025 Killian KOPP
 
 plugins:
   - search
-  - pub-blog:
-      blog_dir: blog
   - pub-meta
 
 markdown_extensions:
